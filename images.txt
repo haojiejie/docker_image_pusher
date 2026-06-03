@@ -1,4 +1,4 @@
 python:3.12-bookworm
 python:3.12-slim
 nginx:1.27-alpine
-pgvector:pg16
+pgvector/pgvector:pg16
